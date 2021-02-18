@@ -1,24 +1,13 @@
 ---
 layout: post
-title: "2021-02-15 - Part 1: How to Study Better for Project Management Certifications using Agile Tracking Principles..."
+title: "Article 1: Project Complexity 18-02-21"
 published: true
 ---
 
-Intro: The Quantified Self movement seeks to utilise data to gain insight on how to improve how people carry out certain activities. For me, this includes looking to leverage data for health, wealth love and ultimate happiness.
-
-<h1>Using Burnup Charts to help study for the PRINCE 2 Agile Practitioner Exam</h1>
-<ul>
-<li>Estimated vs Real/Actual vs Ideal</li>
-<li>Velocity</li>
-<li>Course Correction</li>
-<li>Thoughts:  I once worked in a project team who worked closely to develop an eCRM system with a 3rd party supplier. At the time I had just passed my PRINCE2 Agile practitioner and was eager to implement some of what I learnt. One such agile practice I was eager to utilise was that of the burndown/burnup chart as this is the standard for communicating progress within software teams. My team gave me the go ahead to pester our supplier to provide such a chart but things did not materialise. Instead we were given progress reports in the form of sprints, timeboxing, milestones, and end-of-week progress reports complete with risk status - this was more high-level stuff.  At the time, I remember feeling this was not Agile enough and that we needed more transparency as per SCRUM and it's core principles. However, reading my PRINCE2 manual again, I realised, reporting should be appropriate for the audience and so project and delivery team will inadvertently require different levels of detail, i.e. burnup and down charts for the delivery team and higher level key outputs for the project team, and key outcomes for the senior leadership team.
-<li>A tool to redeploy legacy apps to the cloud in half the time</li>
-<li>The user as end-point refers to the independence of being tied down to a single location as per the days of allocated desktops and network ports.</li>
-
-<h1>Management of Devices</h1>
-The downside to all this fast pace advancement is the cost of administering sometimes 100s of smartphone devices all with the potential to leak data from poorly designed apps and the risk of racking up high pay as you go data bills while employees stream YouTube while overseas.
-
-Here, Citrix has a system called mobile network management (MNM), that allows administrators to perform actions in real-time as they occur e.g. suspicious uploading of data to an unidentified server. Similarly, Wandera offers security from man in the middle attacks and data leakage from 3rd party apps by monitoring data packets in real time as they pass from the phone up to the cloud based app or storage.
-
-<h1>Why should we care?</h1>
-The talk emphasized the need to protect against poorly programmed applications that leak data and malicious hackers that try and steal data. An enterprise may have thousands of devices making it hard to monitor all security risks. According to Citrix, centralised real-time management of devices is the way forwards.
+Article 1: Project Complexity
+To make it easier for the reader to gauge my fit with their project environment I will be using Dave Snowden’s CYNEFIN matrix to help categorise my experiences:
+-Obvious
+-Complicated
+-Complex
+-Chaotic
+-Disorder
